@@ -322,3 +322,7 @@ magma --bfile 1000G_EUR_reference --pval gwas_summary.txt N=346000 \
 ---
 
 需要我画个 scDRS 整体分析流程的图吗？包括：GWAS 基因 → 控制集匹配 → 计算 score → 模拟 null → 得出 p 值 这整个流程。这样你会更清楚它是如何一步步构建出可靠的统计显著性判断的。
+
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
